@@ -8,6 +8,6 @@ import scala.scalajs.js.JSApp
 object Main extends JSApp {
   @scala.scalajs.js.annotation.JSExport
   override def main(): Unit = {
-    println("boo")
+    println("boo2")
   }
 }
